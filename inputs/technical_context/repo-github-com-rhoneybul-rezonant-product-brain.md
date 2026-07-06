@@ -5,7 +5,7 @@ title: "Repo technical context: https://github.com/rhoneybul/rezonant-product-br
 repo_ref: "https://github.com/rhoneybul/rezonant-product-brain"
 doc_path: "wiki/technical_context/github-com-rhoneybul-rezonant-product-brain.md"
 git_hash: null
-generated_at: "2026-07-06T19:13:06.393986+00:00"
+generated_at: "2026-07-06T20:02:36.716580+00:00"
 ---
 
 # Repository Technical Context
