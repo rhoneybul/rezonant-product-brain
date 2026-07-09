@@ -179,3 +179,7 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
 - inputs/linear/ETA-624.md: mode=noise substantive=False topic='Whoop integration morning check-in'
 - inputs/linear/ETA-625.md: mode=noise substantive=False topic='user messaging'
 
+## [2026-07-09T04:18:43Z] pre-classify | classified 1 input(s); skipped 86 already annotated
+
+- inputs/linear/ETA-562.md: mode=trend-extraction substantive=False topic='Strava progress tracking feature'
+
