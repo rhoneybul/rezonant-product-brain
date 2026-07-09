@@ -11,10 +11,10 @@ assignee: honeybulr
 labels: []
 created_at: '2026-05-14T08:16:48.957Z'
 updated_at: '2026-06-19T13:54:20.485Z'
-fetched_at: '2026-07-08T16:13:59.330847+00:00'
+fetched_at: '2026-07-09T14:10:01.354628+00:00'
 _pre_classification:
   mode: status-update
-  topic_hint: Strava integration dependency
+  topic_hint: Strava integration
   substantive: false
 ---
 
