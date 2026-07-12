@@ -274,3 +274,9 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
 - inputs/linear/ETA-626.md: mode=trend-extraction substantive=False topic='event readiness tracking feature'
 - inputs/linear/ETA-627.md: mode=trend-extraction substantive=True topic='event-triggered plan generation UI'
 
+## [2026-07-12T00:05:22Z] pre-classify | classified 3 input(s); skipped 87 already annotated
+
+- inputs/linear/ETA-562.md: mode=trend-extraction substantive=False topic='Strava progress tracking integration'
+- inputs/linear/ETA-626.md: mode=trend-extraction substantive=False topic='event readiness tracking feature'
+- inputs/linear/ETA-627.md: mode=trend-extraction substantive=True topic='event-triggered plan generation UI'
+
