@@ -280,3 +280,56 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
 - inputs/linear/ETA-626.md: mode=trend-extraction substantive=False topic='event readiness tracking feature'
 - inputs/linear/ETA-627.md: mode=trend-extraction substantive=True topic='event-triggered plan generation UI'
 
+## [2026-07-21T08:28:21Z] process | articles 0 -> 11, inputs 91 -> 0 (archived 2, deleted 89)
+
+- iterations: 41
+- tokens: in=1,632,827 out=19,165
+- finish summary:
+  Net: 0 articles -> 11 articles
+  
+  Operating modes used:
+  - Trend extraction: 88 Linear tickets clustered into 9 thematic feature/product articles
+  - Quote synthesis: 2 session summaries incorporated (sample session marketing demo → website-and-marketing; ETA-626 triage → events-and-trips)
+  - Technical context update: 1 repo baseline (blank repo, no code) — skipped, nothing to document
+  
+  Dropped (canceled/noise/no content): ETA-177 (noted as canceled in onboarding article), ETA-459 (canceled, noted as superseded in ai-coach), ETA-486 (canceled, noise), ETA-498 (Slack link only), ETA-501 (canceled), ETA-514 (no description), ETA-553 (copywriting noise), ETA-555 (canceled), ETA-592 (no description), ETA-593 (no description), ETA-594 (no description), ETA-595 (minimal), ETA-597 (no description), ETA-600 (no description), ETA-612 (resolved user-specific bug), ETA-613 (noise), ETA-616 (duplicate Trailforks ticket), ETA-619 (no description), ETA-620 (resolved display bug)
+  
+  Created:
+  - wiki/product/app-overview.md
+  - wiki/features/ai-coach.md
+  - wiki/features/app-performance.md
+  - wiki/features/events-and-trips.md
+  - wiki/features/infrastructure-and-ops.md
+  - wiki/features/onboarding-and-goals.md
+  - wiki/features/pre-launch-readiness.md
+  - wiki/features/route-planning.md
+  - wiki/features/strava-whoop-integrations.md
+  - wiki/features/training-sessions.md
+  - wiki/features/website-and-marketing.md
+  
+  Updated: none (first run)
+  Unchanged: none (first run)
+  
+  Inputs incorporated:
+  - inputs/linear/ETA-28.md, ETA-42.md, ETA-177.md, ETA-455.md, ETA-459.md, ETA-474.md, ETA-483.md, ETA-488.md, ETA-491.md, ETA-492.md, ETA-494.md, ETA-495.md, ETA-496.md, ETA-497.md, ETA-507.md, ETA-513.md, ETA-515.md, ETA-516.md, ETA-517.md, ETA-547.md, ETA-550.md, ETA-560.md, ETA-562.md, ETA-563.md, ETA-565.md, ETA-566.md, ETA-568.md, ETA-569.md, ETA-570.md, ETA-571.md, ETA-572.md, ETA-573.md, ETA-574.md, ETA-575.md, ETA-577.md, ETA-578.md, ETA-579.md, ETA-580.md, ETA-581.md, ETA-582.md, ETA-583.md, ETA-584.md, ETA-585.md, ETA-586.md, ETA-587.md, ETA-588.md, ETA-590.md, ETA-591.md, ETA-596.md, ETA-597.md, ETA-598.md, ETA-599.md, ETA-601.md, ETA-603.md, ETA-604.md, ETA-605.md, ETA-606.md, ETA-607.md, ETA-608.md, ETA-610.md, ETA-611.md, ETA-614.md, ETA-615.md, ETA-617.md, ETA-618.md, ETA-621.md, ETA-622.md, ETA-623.md, ETA-624.md, ETA-625.md, ETA-626.md, ETA-627.md
+  - inputs/sessions/3606f46d-93b2-4ac8-b20e-c222b037a564.md
+  - inputs/sessions/b2685f82-c4fd-4bad-a406-c36a3afa4b95.md
+  
+  Inputs discarded as irrelevant:
+  - inputs/linear/ETA-486.md (canceled, no description)
+  - inputs/linear/ETA-498.md (Slack link only)
+  - inputs/linear/ETA-501.md (canceled)
+  - inputs/linear/ETA-514.md (no description)
+  - inputs/linear/ETA-553.md (copywriting request, no product signal)
+  - inputs/linear/ETA-555.md (canceled)
+  - inputs/linear/ETA-592.md (no description)
+  - inputs/linear/ETA-593.md (no description beyond title)
+  - inputs/linear/ETA-594.md (no description)
+  - inputs/linear/ETA-600.md (no description)
+  - inputs/linear/ETA-612.md (resolved user-specific bug, no durable learning)
+  - inputs/linear/ETA-613.md (noise - Oakley Glasses, no description)
+  - inputs/linear/ETA-616.md (duplicate Trailforks ticket, no description)
+  - inputs/linear/ETA-619.md (no description)
+  - inputs/linear/ETA-620.md (resolved display bug, no durable pattern)
+  - inputs/technical_context/repo-github-com-rhoneybul-rezonant-product-brain.md (blank/empty repo, nothing to document)
+
