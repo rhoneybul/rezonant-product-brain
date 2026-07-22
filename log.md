@@ -333,3 +333,21 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
   - inputs/linear/ETA-620.md (resolved display bug, no durable pattern)
   - inputs/technical_context/repo-github-com-rhoneybul-rezonant-product-brain.md (blank/empty repo, nothing to document)
 
+## [2026-07-22T07:01:48Z] process | articles 11 -> 11, inputs 0 -> 0 (archived 0, deleted 0)
+
+- iterations: 8
+- tokens: in=98,098 out=1,578
+- finish summary:
+  No new inputs this run; removed stale waxing marker from training-sessions
+  
+  Net: 11 articles -> 11 articles
+  
+  Operating modes used: none (zero substantive inputs)
+  Dropped: none
+  Merged: none
+  Created: none
+  Updated: wiki/features/training-sessions.md (removed lifecycle: waxing — last_updated 2026-06-17, ~5 weeks stale with no recent reinforcement)
+  Unchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md
+  Inputs incorporated: none
+  Inputs discarded as irrelevant: none (input directories contained only .gitkeep placeholders)
+

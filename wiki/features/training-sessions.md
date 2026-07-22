@@ -24,7 +24,7 @@ linear_refs:
 - ETA-507
 - ETA-560
 last_updated: 2026-06-17
-lifecycle: waxing
+lifecycle: null
 ---
 
 # Training Sessions
