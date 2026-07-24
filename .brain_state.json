@@ -5,22 +5,22 @@
       "after": 11,
       "before": 11,
       "deleted": 0,
-      "written": 1
+      "written": 0
     },
-    "finish_summary": "No new inputs this run; removed stale waxing marker from training-sessions\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: none (zero substantive inputs)\nDropped: none\nMerged: none\nCreated: none\nUpdated: wiki/features/training-sessions.md (removed lifecycle: waxing \u2014 last_updated 2026-06-17, ~5 weeks stale with no recent reinforcement)\nUnchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md\nInputs incorporated: none\nInputs discarded as irrelevant: none (input directories contained only .gitkeep placeholders)",
+    "finish_summary": "No new inputs this run \u2014 brain unchanged, all 11 articles stable\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: none (no inputs to process)\nDropped: none\nMerged: none\nCreated: none\nUpdated: none\nUnchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/training-sessions.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md\nInputs incorporated: none\nInputs discarded as irrelevant: none (input directories were empty)",
     "inputs": {
       "archived_to_sources": 0,
       "at_end": 0,
       "at_start": 0,
       "deleted": 0
     },
-    "iterations": 8,
+    "iterations": 6,
     "lifecycle_archived": [],
     "lifecycle_deleted": [],
-    "timestamp": "2026-07-22T07:01:11.948953+00:00",
+    "timestamp": "2026-07-24T08:07:06.505076+00:00",
     "tokens": {
-      "input": 98098,
-      "output": 1578
+      "input": 57074,
+      "output": 1069
     }
   }
 }

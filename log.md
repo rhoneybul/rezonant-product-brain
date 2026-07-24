@@ -351,3 +351,21 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
   Inputs incorporated: none
   Inputs discarded as irrelevant: none (input directories contained only .gitkeep placeholders)
 
+## [2026-07-24T08:07:33Z] process | articles 11 -> 11, inputs 0 -> 0 (archived 0, deleted 0)
+
+- iterations: 6
+- tokens: in=57,074 out=1,069
+- finish summary:
+  No new inputs this run — brain unchanged, all 11 articles stable
+  
+  Net: 11 articles -> 11 articles
+  
+  Operating modes used: none (no inputs to process)
+  Dropped: none
+  Merged: none
+  Created: none
+  Updated: none
+  Unchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/training-sessions.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md
+  Inputs incorporated: none
+  Inputs discarded as irrelevant: none (input directories were empty)
+
