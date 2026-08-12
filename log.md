@@ -369,3 +369,21 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
   Inputs incorporated: none
   Inputs discarded as irrelevant: none (input directories were empty)
 
+## [2026-08-12T12:59:43Z] process | articles 11 -> 11, inputs 0 -> 0 (archived 0, deleted 0)
+
+- iterations: 7
+- tokens: in=82,350 out=1,616
+- finish summary:
+  No new inputs this run; cleaned up stale null lifecycle marker
+  
+  Net: 11 articles -> 11 articles
+  
+  Operating modes used: none (zero inputs)
+  Dropped: none
+  Merged: none
+  Created: none
+  Updated: wiki/features/training-sessions.md (removed spurious `lifecycle: null` frontmatter field — stable articles should omit the field entirely)
+  Unchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md
+  Inputs incorporated: none
+  Inputs discarded as irrelevant: none (input directories were empty)
+
