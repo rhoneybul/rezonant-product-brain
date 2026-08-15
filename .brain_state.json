@@ -5,22 +5,22 @@
       "after": 11,
       "before": 11,
       "deleted": 0,
-      "written": 1
+      "written": 0
     },
-    "finish_summary": "No new inputs this run; cleaned up stale null lifecycle marker\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: none (zero inputs)\nDropped: none\nMerged: none\nCreated: none\nUpdated: wiki/features/training-sessions.md (removed spurious `lifecycle: null` frontmatter field \u2014 stable articles should omit the field entirely)\nUnchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md\nInputs incorporated: none\nInputs discarded as irrelevant: none (input directories were empty)",
+    "finish_summary": "No-op run \u2014 zero inputs arrived, brain unchanged\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: none (no inputs to process)\nDropped: none\nMerged: none\nCreated: none\nUpdated: none\nUnchanged: all 11 articles (wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/training-sessions.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md)\nInputs incorporated: none\nInputs discarded as irrelevant: none (input directories contained only .gitkeep placeholder files)",
     "inputs": {
       "archived_to_sources": 0,
       "at_end": 0,
       "at_start": 0,
       "deleted": 0
     },
-    "iterations": 7,
+    "iterations": 9,
     "lifecycle_archived": [],
     "lifecycle_deleted": [],
-    "timestamp": "2026-08-12T12:59:06.436701+00:00",
+    "timestamp": "2026-08-15T01:12:13.243490+00:00",
     "tokens": {
-      "input": 82350,
-      "output": 1616
+      "input": 107346,
+      "output": 1472
     }
   }
 }
