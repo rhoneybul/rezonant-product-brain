@@ -405,3 +405,21 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
   Inputs incorporated: none
   Inputs discarded as irrelevant: none (input directories contained only .gitkeep placeholder files)
 
+## [2026-08-16T02:39:56Z] process | articles 11 -> 11, inputs 0 -> 0 (archived 0, deleted 0)
+
+- iterations: 10
+- tokens: in=135,397 out=2,425
+- finish summary:
+  Zero-input maintenance run — removed stale lifecycle markers on two articles
+  
+  Net: 11 articles -> 11 articles
+  
+  Operating modes used: None (no inputs to process)
+  Dropped (shipped/stale/superseded): none
+  Merged: none
+  Created: none
+  Updated: wiki/features/pre-launch-readiness.md (removed stale waxing lifecycle marker — 7.5 weeks since last update, no new inputs corroborating forward momentum), wiki/features/training-sessions.md (removed explicit lifecycle: null — field should be absent, not null)
+  Unchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md
+  Inputs incorporated: none (zero inputs this run)
+  Inputs discarded as irrelevant: none
+

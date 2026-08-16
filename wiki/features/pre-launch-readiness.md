@@ -1,9 +1,21 @@
 ---
 name: pre-launch-readiness
-description: Pre-launch checklist — legal compliance (UK GDPR, health data, Strava ToS), TestFlight review, pricing, and App Store preparation
-linear_refs: ["ETA-486", "ETA-488", "ETA-491", "ETA-542", "ETA-586", "ETA-587", "ETA-588", "ETA-590", "ETA-591", "ETA-596", "ETA-597"]
+description: "Pre-launch checklist \u2014 legal compliance (UK GDPR, health data,\
+  \ Strava ToS), TestFlight review, pricing, and App Store preparation"
+linear_refs:
+- ETA-486
+- ETA-488
+- ETA-491
+- ETA-542
+- ETA-586
+- ETA-587
+- ETA-588
+- ETA-590
+- ETA-591
+- ETA-596
+- ETA-597
 last_updated: 2026-06-24
-lifecycle: waxing
+lifecycle: null
 ---
 
 # Pre-Launch Readiness
