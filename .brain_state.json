@@ -5,9 +5,9 @@
       "after": 11,
       "before": 11,
       "deleted": 0,
-      "written": 2
+      "written": 0
     },
-    "finish_summary": "Zero-input maintenance run \u2014 removed stale lifecycle markers on two articles\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: None (no inputs to process)\nDropped (shipped/stale/superseded): none\nMerged: none\nCreated: none\nUpdated: wiki/features/pre-launch-readiness.md (removed stale waxing lifecycle marker \u2014 7.5 weeks since last update, no new inputs corroborating forward momentum), wiki/features/training-sessions.md (removed explicit lifecycle: null \u2014 field should be absent, not null)\nUnchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md\nInputs incorporated: none (zero inputs this run)\nInputs discarded as irrelevant: none",
+    "finish_summary": "No inputs arrived this run \u2014 brain unchanged from July 2026 state\n\nNet: 11 articles -> 11 articles\n\nOperating modes used: none (zero inputs)\nDropped (shipped/stale/superseded): none\nMerged: none\nCreated: none\nUpdated: none\nUnchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/training-sessions.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md\nInputs incorporated: none\nInputs discarded as irrelevant: none (inputs/ directories were empty)",
     "inputs": {
       "archived_to_sources": 0,
       "at_end": 0,
@@ -17,10 +17,10 @@
     "iterations": 10,
     "lifecycle_archived": [],
     "lifecycle_deleted": [],
-    "timestamp": "2026-08-16T02:07:54.250037+00:00",
+    "timestamp": "2026-08-18T01:20:11.008818+00:00",
     "tokens": {
-      "input": 135397,
-      "output": 2425
+      "input": 121692,
+      "output": 1918
     }
   }
 }

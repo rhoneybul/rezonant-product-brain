@@ -423,3 +423,21 @@ Append-only record of fetcher, input agent, pre-classifier, processor, and lint 
   Inputs incorporated: none (zero inputs this run)
   Inputs discarded as irrelevant: none
 
+## [2026-08-18T01:37:39Z] process | articles 11 -> 11, inputs 0 -> 0 (archived 0, deleted 0)
+
+- iterations: 10
+- tokens: in=121,692 out=1,918
+- finish summary:
+  No inputs arrived this run — brain unchanged from July 2026 state
+  
+  Net: 11 articles -> 11 articles
+  
+  Operating modes used: none (zero inputs)
+  Dropped (shipped/stale/superseded): none
+  Merged: none
+  Created: none
+  Updated: none
+  Unchanged: wiki/features/ai-coach.md, wiki/features/app-performance.md, wiki/features/events-and-trips.md, wiki/features/infrastructure-and-ops.md, wiki/features/onboarding-and-goals.md, wiki/features/pre-launch-readiness.md, wiki/features/route-planning.md, wiki/features/strava-whoop-integrations.md, wiki/features/training-sessions.md, wiki/features/website-and-marketing.md, wiki/product/app-overview.md
+  Inputs incorporated: none
+  Inputs discarded as irrelevant: none (inputs/ directories were empty)
+
